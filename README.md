@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Anthony James Larner
 
-You can use the [editor on GitHub](https://github.com/ajameslarner/ajameslarner.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my corner of the internet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Take a closer look at some of my latest live work.
 
-### Markdown
+### Applied Data Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Take a look at small dashboard I created for a Data Science project based on statistical analysis using R.
 
 ```markdown
 Syntax highlighted code block
