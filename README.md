@@ -1,12 +1,32 @@
-## Anthony James Larner
-
-Welcome to my corner of the internet. 
-
-Take a closer look at some of my latest live work.
+## A Collection of my Work
 
 ### Applied Data Science
 
-Take a look at small dashboard I created for a Data Science project based on statistical analysis using R.
+Take a look at my R development, where I took on an analytical project looking at the effect Covid-19 has had on companies across different sectors.
+For more details see [R-Development](https://github.com/ajameslarner/CII2201-R-Development).
+
+### Web Programming
+
+Take a look at some inital HTML/CSS development to demonstrate an understanding of both languages.
+For more details see [HTML/CSS-Development](https://github.com/ajameslarner/CFT2111-HTML-CSS-Development).
+
+Take a look at my JavaScript development, where we were asked to produce a JS web application filtering and providing results based on user input.
+For more details see [JS-Development](https://github.com/ajameslarner/CFT2111-JS-Development).
+
+Take a look at my PHP development, where we were asked to produce a functional website with an integrated login/authentication system, SQL Database integration through PHPMyAdmin following a scenerio given. (Kirklees Hotels)
+For more details see [PHP-Development](https://github.com/ajameslarner/CIT2202-PHP-Development).
+
+### ASP.NET
+
+Take a look at my web application, build using Visual Basic, ASP.NET and Visual Studio. Focusing mostly on database design and implementatiom.
+For more details see [ASP.NET-Development](https://github.com/ajameslarner/CFI2103-ASP.NET-Development).
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
